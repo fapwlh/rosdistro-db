@@ -40,3 +40,7 @@ graphicsmagick:
   windows:
     vcpkg:
       packages: [graphicsmagick]
+yaml-cpp:
+  windows:
+    vcpkg:
+      packages: [yaml-cpp]
